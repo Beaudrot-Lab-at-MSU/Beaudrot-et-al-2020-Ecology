@@ -1,5 +1,5 @@
 # Beaudrot et al 2020 Ecology
-Code and files for Beaudrot, Palmer, Anderson & Packer 2020 Ecology manuscript "Mixed-species groups of Serengeti grazers: a test of the stress gradient hypothesis"
+Code and files for Beaudrot, Palmer, Anderson & Packer 2020 Ecology "Mixed-species groups of Serengeti grazers: a test of the stress gradient hypothesis"
 
 File summary:
 
